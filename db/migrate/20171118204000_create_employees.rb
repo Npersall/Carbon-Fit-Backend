@@ -6,7 +6,6 @@ class CreateEmployees < ActiveRecord::Migration[5.1]
       t.string :email
       t.integer :employee_total_footprint
 
-
       t.timestamps
     end
   end
