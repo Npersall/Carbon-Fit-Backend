@@ -1,7 +1,6 @@
 class CreateShifts < ActiveRecord::Migration[5.1]
   def change
     create_table :shifts do |t|
-      t.integer :total_shift_footprint
       t.time :shift_start
       t.time :shift_end
       t.integer :shift_miles
@@ -11,6 +10,7 @@ class CreateShifts < ActiveRecord::Migration[5.1]
       t.integer :methane
       t.integer :alcohol
       t.integer :smoke
+      t.integer :total_shift_footprint
 
       t.timestamps
     end
