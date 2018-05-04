@@ -1,36 +1,61 @@
-**Carbon Fit**
+## Carbon Fit
 
-*Carbon fit is a project created to combat climate change by challenging users to track and analyze their carbon footprint by means of their chosen mode of transportation.*
+**Carbon Fit is the 1st Place winning project of the 2017 Impacting Climate Change Internet of Things Hackathon sponsored by IBM, Particle, Northeastern University of Silicon Valley by Level Education.**
 
-**Inspiration:**
+**Carbon Fit helps companies fight climate change by monitoring carbon emission outputs of their vehicles.**
 
-**What it does:**
+_This project was built for the mock company 'Coco Club', a chocolate and coffee delivery company._
 
-Carbon-Ft assists companies by tracking emissions coming from their company vehicles.  Plus, we wanted to make the world a better place. 
+_We track and analyze Coco Club's carbon footprint by vehicle and employee._
 
-**How we built it:**
-Sketch
+![](https://github.com/Npersall/Carbon-Fit/blob/development/CF800.gif)
+
+---
+
+**Tech Stack**
+
+Hardware
+Particle Photon Chip
+MQ-2 Gas Sensor
+
+Software:
+Particle.io Console
 Ruby
 Ruby on Rails
 Postgres Database
-Particle.io
+React Native
 
-**Challenges we ran into:**
+Design:
+Sketch
+Adobe XD
 
-Our main challenge was time, since we built this at a one-day Hackathon. Roughly eight hours from building to pitching! Some other issues we had was getting our Particle.io device to properly send data to our back end. 
+---
 
-**Accomplishments that we're proud of:**
+**Challenges**
 
-Getting our hardware to work and send the correct data - luckily we had some very intelligent engineers who were able to use the Particle.io hardware work with our design concept. 
+Our main challenge was time, since we built this at a one-day Hackathon. Roughly eight hours from building to pitching! Some other issues we had was getting our Particle.io device to properly send data to our back end.
 
-Teamwork abounded! No one had their Red Bull slapped out of their hand, and there was absolutely no eye-rolling between members. I know, it's hard to believe.  
+**Accomplishments**
 
-**What we learned:**
-We learned that by working together, we are capable of great things. Each team member gave it their all, and even with the minimal time, we were able to reach our MVP. 
+Getting our hardware to work and send the correct data - luckily we had some very intelligent engineers who were able to use the Particle.io hardware work with our design concept. We just got down to business and valued everyone's input.
 
-**What's next for Carbon-Fit:**
-Adding a rewards system for employees who reduce their carbon footprint by a certain percentage each fiscal year
+**Team Members:**
 
-**Built With:**
-We decided to build Carbon Fit with a Rails backend, a Postgres Database, and a React Native front end - snazzy! 
+Denise Duffy | @femaleinventor | denise@deniseduffy.com
+Product Manager, Presenter
 
+Nathan Persall | @npersall | npersall@gmail.com
+Project Manager, Front and Backend Engineer
+
+Micheline Chagniot | machagniot@gmail.com
+Wireframes and UX Design
+
+Marissa Berrong | @marissab13 | Project Planner
+
+Varunika Gupta | varunikg@usc.edu
+Hardware Engineer
+
+Nick Kaser | @intell-gent | nsksir@gmail.com
+Frontend Engineer, Project Planner
+
+Click here to view the full[CarbonFit Presentation](https://docs.google.com/presentation/d/e/2PACX-1vRrkyl8reoViho_C0WvnOTWYEGnbG-m1XkVy4cOj4fqQuhuY0nWLQUb8wHZo245dFbHhQ57QR4vtV7g/pub?start=true&loop=true&delayms=3000)
