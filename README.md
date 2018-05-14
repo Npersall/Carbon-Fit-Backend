@@ -41,21 +41,21 @@ Getting hardware to work and send the correct data - Working prototype.
 
 **Team Members:**
 
-Denise Duffy | @femaleinventor | denise@deniseduffy.com
+Denise Duffy | @femaleinventor | denise@deniseduffy.com |
 Product Manager, Presenter, Backend Engineer
 
-Nathan Persall | @npersall | npersall@gmail.com
+Nathan Persall | @npersall | npersall@gmail.com |
 Project Manager, Front and Backend Engineer
 
-Micheline Chagniot | machagniot@gmail.com
+Micheline Chagniot | machagniot@gmail.com |
 Wireframes and UX Design
 
 Marissa Berrong | @marissab13 | Project Planner
 
-Varunika Gupta | varunikg@usc.edu
+Varunika Gupta | varunikg@usc.edu |
 Hardware Engineer
 
-Nick Kaser | @intell-gent | nsksir@gmail.com
+Nick Kaser | @intell-gent | nsksir@gmail.com |
 Frontend Engineer, Project Planner
 
 Click here to view the full[CarbonFit Presentation](https://docs.google.com/presentation/d/e/2PACX-1vRrkyl8reoViho_C0WvnOTWYEGnbG-m1XkVy4cOj4fqQuhuY0nWLQUb8wHZo245dFbHhQ57QR4vtV7g/pub?start=true&loop=true&delayms=3000)
