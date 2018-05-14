@@ -42,7 +42,7 @@ Getting hardware to work and send the correct data - Working prototype.
 **Team Members:**
 
 Denise Duffy | @femaleinventor | denise@deniseduffy.com
-Product Manager, Presenter
+Product Manager, Presenter, Backend Engineer
 
 Nathan Persall | @npersall | npersall@gmail.com
 Project Manager, Front and Backend Engineer
