@@ -37,7 +37,7 @@ Our main challenge was time, since we built this at a one-day Hackathon. Roughly
 
 **Accomplishments**
 
-Getting our hardware to work and send the correct data - luckily we had some very intelligent engineers who were able to use the Particle.io hardware work with our design concept. We just got down to business and valued everyone's input.
+Getting hardware to work and send the correct data - Working prototype.
 
 **Team Members:**
 
@@ -59,3 +59,5 @@ Nick Kaser | @intell-gent | nsksir@gmail.com
 Frontend Engineer, Project Planner
 
 Click here to view the full[CarbonFit Presentation](https://docs.google.com/presentation/d/e/2PACX-1vRrkyl8reoViho_C0WvnOTWYEGnbG-m1XkVy4cOj4fqQuhuY0nWLQUb8wHZo245dFbHhQ57QR4vtV7g/pub?start=true&loop=true&delayms=3000)
+
+![](https://github.com/Npersall/Carbon-Fit-Backend/images/images/hcc-2017_event_ad_photo.jpg)
