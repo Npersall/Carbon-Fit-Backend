@@ -1,4 +1,4 @@
-us# This file is auto-generated from the current state of the database. Instead
+# This file is auto-generated from the current state of the database. Instead
 # of editing this file, please use the migrations feature of Active Record to
 # incrementally modify your database, and then regenerate this schema definition.
 #
@@ -10,34 +10,42 @@ us# This file is auto-generated from the current state of the database. Instead
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 20171118204009) do
+ActiveRecord::Schema.define(version: 20180522224729) do
 
   # These are extensions that must be enabled in order to support this database
   enable_extension "plpgsql"
 
   create_table "businesses", force: :cascade do |t|
     t.string "name"
-    t.integer "total_footprint"
     t.datetime "created_at", null: false
     t.datetime "updated_at", null: false
+    t.string "business_identifier"
   end
 
   create_table "employees", force: :cascade do |t|
     t.string "first_name"
     t.string "last_name"
     t.string "email"
-    t.integer "employee_total_footprint"
     t.datetime "created_at", null: false
     t.datetime "updated_at", null: false
+    t.string "employee_identifier"
+    t.bigint "businesses_id"
+    t.index ["businesses_id"], name: "index_employees_on_businesses_id"
   end
 
-  create_table "shifts", force: :cascade do |t|
+  create_table "shift_logs", force: :cascade do |t|
+    t.datetime "log_start"
+    t.datetime "log_end"
+    t.integer "tracked_miles"
     t.integer "total_shift_footprint"
-    t.time "shift_start"
-    t.time "shift_end"
-    t.integer "shift_miles"
+    t.integer "start_odometer"
+    t.integer "end_odometer"
+    t.bigint "vehicles_id"
+    t.bigint "employees_id"
     t.datetime "created_at", null: false
     t.datetime "updated_at", null: false
+    t.index ["employees_id"], name: "index_shift_logs_on_employees_id"
+    t.index ["vehicles_id"], name: "index_shift_logs_on_vehicles_id"
   end
 
   create_table "vehicles", force: :cascade do |t|
@@ -50,4 +58,5 @@ ActiveRecord::Schema.define(version: 20171118204009) do
     t.datetime "updated_at", null: false
   end
 
+  add_foreign_key "employees", "businesses", column: "businesses_id"
 end
