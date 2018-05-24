@@ -17,6 +17,9 @@ _We track and analyze Coco Club's carbon footprint by vehicle and employee._
 Hardware
 Particle Photon Chip
 MQ-2 Gas Sensor
+MQ-131 Gas Sensor
+MQ-135 Gas Sensor
+MQ-136 Gas Sensor
 
 Software:
 Particle.io Console
