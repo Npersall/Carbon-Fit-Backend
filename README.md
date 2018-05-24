@@ -53,7 +53,8 @@ Project Manager, Front and Backend Engineer
 Micheline Chagniot | machagniot@gmail.com |
 Wireframes and UX Design
 
-Marissa Berrong | @marissab13 | Project Planner
+Marissa Berrong | @marissab13 |
+Project Planner
 
 Varunika Gupta | varunikg@usc.edu |
 Hardware Engineer
