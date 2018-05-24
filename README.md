@@ -8,7 +8,7 @@ _This project was built for the mock company 'Coco Club', a chocolate and coffee
 
 _We track and analyze Coco Club's carbon footprint by vehicle and employee._
 
-![](https://github.com/Npersall/Carbon-Fit/blob/development/CF800.gif)
+![](https://github.com/Npersall/Carbon-Fit/blob/development/Carbon_Fit_frontend/CF800.gif)
 
 ---
 
@@ -63,4 +63,4 @@ Frontend Engineer, Project Planner
 
 Click here to view the full [CarbonFit Presentation](https://docs.google.com/presentation/d/e/2PACX-1vRrkyl8reoViho_C0WvnOTWYEGnbG-m1XkVy4cOj4fqQuhuY0nWLQUb8wHZo245dFbHhQ57QR4vtV7g/pub?start=true&loop=true&delayms=3000)
 
-![](images/hcc-2017_event_ad_photo.jpg "Impacting Climate Change 2017")
+![](images/hcc-2017_event_ad_photo.jpg 'Impacting Climate Change 2017')
