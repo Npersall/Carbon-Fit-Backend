@@ -8,7 +8,7 @@ _This project was built for the mock company 'Coco Club', a chocolate and coffee
 
 _We track and analyze Coco Club's carbon footprint by vehicle and employee._
 
-![](https://github.com/Npersall/Carbon-Fit/blob/development/Carbon_Fit_frontend/CF800.gif)
+![](https://github.com/Npersall/Carbon-Fit/blob/development/carbon_fit_frontend/CF800.gif)
 
 ---
 
