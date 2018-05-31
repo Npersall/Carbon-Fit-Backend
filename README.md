@@ -8,28 +8,28 @@ _This project was built for the mock company 'Coco Club', a chocolate and coffee
 
 _We track and analyze Coco Club's carbon footprint by vehicle and employee._
 
-![](https://github.com/Npersall/Carbon-Fit/blob/development/carbon_fit_frontend/CF800.gif)
+![](https://github.com/Npersall/Carbon-Fit/blob/development/Carbon_Fit_frontend/CF800.gif)
 
 ---
 
 **Tech Stack**
 
-**Hardware**:
-Particle Photon Chip  
-MQ-2 Gas Sensor  
-MQ-131 Gas Sensor  
-MQ-135 Gas Sensor  
+Hardware
+Particle Photon Chip
+MQ-2 Gas Sensor
+MQ-131 Gas Sensor
+MQ-135 Gas Sensor
 MQ-136 Gas Sensor
 
-**Software**:
-Particle.io Console  
-Ruby  
-Ruby on Rails  
-Postgres Database  
+Software:
+Particle.io Console
+Ruby
+Ruby on Rails
+Postgres Database
 React Native
 
-**Design**:
-Sketch  
+Design:
+Sketch
 Adobe XD
 
 ---
