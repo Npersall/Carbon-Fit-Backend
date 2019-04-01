@@ -65,3 +65,7 @@ Frontend Engineer, Project Planner
 Click here to view the full [CarbonFit Presentation](https://docs.google.com/presentation/d/e/2PACX-1vRrkyl8reoViho_C0WvnOTWYEGnbG-m1XkVy4cOj4fqQuhuY0nWLQUb8wHZo245dFbHhQ57QR4vtV7g/pub?start=true&loop=true&delayms=3000)
 
 ![](images/hcc-2017_event_ad_photo.jpg 'Impacting Climate Change 2017')
+
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxpL-Qy3KEo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
