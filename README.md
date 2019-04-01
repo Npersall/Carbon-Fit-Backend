@@ -67,5 +67,6 @@ Click here to view the full [CarbonFit Presentation](https://docs.google.com/pre
 ![](images/hcc-2017_event_ad_photo.jpg 'Impacting Climate Change 2017')
 
 
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/DxpL-Qy3KEo/0.jpg)](https://www.youtube.com/watch?v=DxpL-Qy3KEo)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/DxpL-Qy3KEo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
