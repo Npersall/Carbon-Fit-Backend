@@ -2,6 +2,10 @@
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/DxpL-Qy3KEo/0.jpg)](https://www.youtube.com/watch?v=DxpL-Qy3KEo)
 
+
+
+![](images/hcc-2017_event_ad_photo.jpg 'Impacting Climate Change 2017')
+
 **Carbon Fit is the 1st Place winning project of the 2017 Impacting Climate Change Internet of Things Hackathon sponsored by IBM, Particle, Northeastern University of Silicon Valley by Level Education.**
 
 **Carbon Fit helps companies fight climate change by monitoring carbon emission outputs of their vehicles.**
@@ -66,7 +70,6 @@ Frontend Engineer, Project Planner
 
 Click here to view the full [CarbonFit Presentation](https://docs.google.com/presentation/d/e/2PACX-1vRrkyl8reoViho_C0WvnOTWYEGnbG-m1XkVy4cOj4fqQuhuY0nWLQUb8wHZo245dFbHhQ57QR4vtV7g/pub?start=true&loop=true&delayms=3000)
 
-![](images/hcc-2017_event_ad_photo.jpg 'Impacting Climate Change 2017')
 
 
 
