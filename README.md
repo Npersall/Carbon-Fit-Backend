@@ -4,9 +4,9 @@
 
 ![](images/hcc-2017_event_ad_photo.jpg 'Impacting Climate Change 2017')
 
+YouTube Video of device test:
 
-
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/DxpL-Qy3KEo/0.jpg)](https://www.youtube.com/watch?v=DxpL-Qy3KEo)
+[![](https://img.youtube.com/vi/DxpL-Qy3KEo/0.jpg)](https://www.youtube.com/watch?v=DxpL-Qy3KEo)
 
 
 
