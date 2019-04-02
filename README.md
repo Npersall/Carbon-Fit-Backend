@@ -55,11 +55,11 @@ Getting hardware to work and send the correct data - Working prototype.
 
 **Team Members:**
 
-Denise Duffy | @femaleinventor | denise@deniseduffy.com |
-Product Manager, Presenter, Backend Engineer
-
 Nathan Persall | @npersall | npersall@gmail.com |
-Project Manager, Front and Backend Engineer
+Team Lead, Project Manager, Backend Engineer
+
+Denise Duffy | @femaleinventor | denise@deniseduffy.com |
+Product Manager, Presenter, Database Engineer
 
 Micheline Chagniot | machagniot@gmail.com |
 Wireframes and UX Design
