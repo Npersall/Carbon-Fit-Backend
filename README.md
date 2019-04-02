@@ -45,7 +45,7 @@ Adobe XD
 
 ---
 
-![](.png)
+![](images/Profile.png)
 
 **Challenges**
 
