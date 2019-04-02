@@ -45,6 +45,8 @@ Adobe XD
 
 ---
 
+![](.png)
+
 **Challenges**
 
 Our main challenge was time, since we built this at a one-day Hackathon. Roughly eight hours from building to pitching! Some other issues we had was getting our Particle.io device to properly send data to our back end.
