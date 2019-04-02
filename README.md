@@ -7,7 +7,7 @@
 YouTube video of device test (0.34 sec):
 
 
-[![](https://img.youtube.com/vi/DxpL-Qy3KEo/0.jpg)](https://www.youtube.com/watch?v=DxpL-Qy3KEo)
+[![](https://img.youtube.com/vi/x2G_ozqXGGM/0.jpg)](https://www.youtube.com/watch?v=x2G_ozqXGGM)
 
 
 
