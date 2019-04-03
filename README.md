@@ -2,6 +2,10 @@
 
 
 
+**Carbon Fit is the 1st Place winning project of the 2017 Impacting Climate Change Internet of Things Hackathon sponsored by IBM, Particle, Northeastern University of Silicon Valley by Level Education.**
+
+**Carbon Fit helps companies fight climate change by monitoring carbon emission outputs of their vehicles.**
+
 ![](images/hcc-2017_event_ad_photo.jpg 'Impacting Climate Change 2017')
 
 YouTube video of device test (0:34 sec):
@@ -12,11 +16,6 @@ YouTube video of device test (0:34 sec):
 YouTube video of test results from device test (0:34 sec):
 
 [![](https://img.youtube.com/vi/hi1X65Y7-M4/0.jpg)](https://www.youtube.com/watch?v=hi1X65Y7-M4)
-
-
-**Carbon Fit is the 1st Place winning project of the 2017 Impacting Climate Change Internet of Things Hackathon sponsored by IBM, Particle, Northeastern University of Silicon Valley by Level Education.**
-
-**Carbon Fit helps companies fight climate change by monitoring carbon emission outputs of their vehicles.**
 
 _This project was built for the mock company 'Coco Club', a chocolate and coffee delivery company._
 
