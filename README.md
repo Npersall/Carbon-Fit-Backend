@@ -7,8 +7,7 @@
 YouTube video of device test (0.34 sec):
 
 
-[![](https://img.youtube.com/vi/x2G_ozqXGGM/0.jpg)](https://www.youtube.com/watch?v=x2G_ozqXGGM)
-[![](https://img.youtube.com/vi/hi1X65Y7-M4/0.jpg)](https://www.youtube.com/watch?v=hi1X65Y7-M4)
+[![](https://img.youtube.com/vi/x2G_ozqXGGM/0.jpg)](https://www.youtube.com/watch?v=x2G_ozqXGGM)[![](https://img.youtube.com/vi/hi1X65Y7-M4/0.jpg)](https://www.youtube.com/watch?v=hi1X65Y7-M4)
 
 
 **Carbon Fit is the 1st Place winning project of the 2017 Impacting Climate Change Internet of Things Hackathon sponsored by IBM, Particle, Northeastern University of Silicon Valley by Level Education.**
